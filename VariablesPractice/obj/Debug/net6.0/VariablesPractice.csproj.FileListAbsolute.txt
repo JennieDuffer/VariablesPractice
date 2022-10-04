@@ -1,0 +1,15 @@
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\net6.0\VariablesPractice.exe
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\net6.0\VariablesPractice.deps.json
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\net6.0\VariablesPractice.runtimeconfig.json
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\net6.0\VariablesPractice.dll
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\net6.0\VariablesPractice.pdb
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.csproj.AssemblyReference.cache
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.AssemblyInfo.cs
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.dll
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\refint\VariablesPractice.dll
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.pdb
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\VariablesPractice.genruntimeconfig.cache
+C:\Users\jenni\Desktop\Repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\net6.0\ref\VariablesPractice.dll
